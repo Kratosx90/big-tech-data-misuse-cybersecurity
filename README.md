@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="cyber-banner png" src="https://github.com/user-attachments/assets/4f689a8e-d342-45c0-b5aa-b8b9fe00627a" />
 
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue)
 ![Privacy](https://img.shields.io/badge/Privacy-Awareness-green)
