@@ -1,3 +1,8 @@
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue)
+![Privacy](https://img.shields.io/badge/Privacy-Awareness-green)
+![Open Source](https://img.shields.io/badge/Open-Source-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Educational-red)
 # Big Tech Data Misuse and Cyber Security Awareness
 
 ## Overview
