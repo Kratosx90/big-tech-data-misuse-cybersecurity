@@ -335,7 +335,7 @@ Understanding tracking systems, data collection practices, and online risks help
 <p align="center">
   Educational repository for learning and awareness purposes.
 </p>
----
+
 
 ## Author
 
