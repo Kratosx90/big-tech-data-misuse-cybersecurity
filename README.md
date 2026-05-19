@@ -44,6 +44,18 @@ The goal of this repository is to improve awareness about how modern digital pla
 
 ---
 
+## Features
+
+- Cyber security awareness documentation
+- Digital privacy education
+- Surveillance and tracking analysis
+- Artificial Intelligence profiling discussions
+- Data breach awareness
+- Social engineering research
+- Privacy protection guides
+- Ethical technology discussions
+- Open-source educational resources
+- Structured cyber security documentation
 # Topics Covered
 
 ## Cyber Security
