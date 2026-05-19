@@ -13,6 +13,19 @@
   Educational repository focused on cyber security awareness, privacy protection, surveillance risks, Artificial Intelligence profiling, and responsible digital practices.
 </p>
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Topics Covered](#topics-covered)
+- [Repository Structure](#repository-structure)
+- [Included Documentation](#included-documentation)
+- [Educational Purpose](#educational-purpose)
+- [Ethical Disclaimer](#ethical-disclaimer)
+- [Recommended Privacy Tools](#recommended-privacy-tools)
+- [How to Contribute](#how-to-contribute)
+- [Repository Topics](#repository-topics)
+- [Important Notice](#important-notice)
+- [Conclusion](#conclusion)
 ## Overview
 
 This repository is an educational cyber security and digital privacy project focused on:
