@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/cyber-banner.png" alt="Cyber Security Banner">
+  <img src="cyber-banner.png" alt="Cyber Security Banner">
 </p>
 
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue)
