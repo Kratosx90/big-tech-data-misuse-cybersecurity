@@ -210,3 +210,12 @@ Always distinguish between:
 Digital privacy and cyber security are essential in the modern technology ecosystem.
 
 Understanding tracking systems, data collection practices, and online risks helps users improve digital safety and make informed decisions about technology usage.
+---
+
+<p align="center">
+  <b>Cyber Security • Privacy Awareness • Digital Rights • Responsible Technology</b>
+</p>
+
+<p align="center">
+  Educational repository for learning and awareness purposes.
+</p>
