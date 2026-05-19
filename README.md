@@ -1,7 +1,7 @@
 <p align="center">
   <img src="cyber-banner.png" alt="Cyber Security Banner">
 </p>
-
+![Cyber Security Banner](cyber-banner.png)
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue)
 ![Privacy](https://img.shields.io/badge/Privacy-Awareness-green)
 ![Open Source](https://img.shields.io/badge/Open-Source-orange)
