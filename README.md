@@ -9,7 +9,9 @@
 ![Status](https://img.shields.io/badge/Status-Educational-red)
 
 # Big Tech Data Misuse and Cyber Security Awareness
-# Big Tech Data Misuse and Cyber Security Awareness
+<p align="center">
+  Educational repository focused on cyber security awareness, privacy protection, surveillance risks, Artificial Intelligence profiling, and responsible digital practices.
+</p>
 
 ## Overview
 
